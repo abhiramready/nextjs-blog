@@ -32,4 +32,4 @@ export async function getServerSideProps(context) {
 
 **Dynamic URLs:** Next.js allows you to statically generate pages with paths that depend on external data, where each page path depends on external data.
 
-<img src="https://github.com/abhiramready/Habit-System/assets/40287643/0b76edc0-1add-49d4-992d-3b0ef5ef389f"  width="400"/>
+![](/images/page.png)
