@@ -19,7 +19,7 @@ Static Generation and Server-side Rendering. The difference is in when it genera
 
 #### Server-side Rendering
 
-```javascript
+```
 // context contains request-specific parameters.
 export async function getServerSideProps(context) {
   return {
